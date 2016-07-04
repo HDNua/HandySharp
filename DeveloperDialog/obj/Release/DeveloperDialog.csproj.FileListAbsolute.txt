@@ -1,0 +1,11 @@
+D:\handy\work\devenv\vs2013\library\HandySharp\DeveloperDialog\bin\Release\DeveloperDialog.XML
+D:\handy\work\devenv\vs2013\library\HandySharp\DeveloperDialog\bin\Release\DeveloperDialog.dll
+D:\handy\work\devenv\vs2013\library\HandySharp\DeveloperDialog\bin\Release\DeveloperDialog.pdb
+D:\handy\work\devenv\vs2013\library\HandySharp\DeveloperDialog\bin\Release\ko\DeveloperDialog.resources.dll
+D:\handy\work\devenv\vs2013\library\HandySharp\DeveloperDialog\obj\Release\Handy.GUI.DeveloperDialog.resources
+D:\handy\work\devenv\vs2013\library\HandySharp\DeveloperDialog\obj\Release\Handy.Lang.resources
+D:\handy\work\devenv\vs2013\library\HandySharp\DeveloperDialog\obj\Release\Handy.Lang.ko.resources
+D:\handy\work\devenv\vs2013\library\HandySharp\DeveloperDialog\obj\Release\DeveloperDialog.csproj.GenerateResource.Cache
+D:\handy\work\devenv\vs2013\library\HandySharp\DeveloperDialog\obj\Release\ko\DeveloperDialog.resources.dll
+D:\handy\work\devenv\vs2013\library\HandySharp\DeveloperDialog\obj\Release\DeveloperDialog.dll
+D:\handy\work\devenv\vs2013\library\HandySharp\DeveloperDialog\obj\Release\DeveloperDialog.pdb

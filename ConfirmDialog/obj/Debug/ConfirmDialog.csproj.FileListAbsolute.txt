@@ -1,0 +1,11 @@
+D:\handy\work\dev\library\HandySharp\ConfirmDialog\bin\Debug\ConfirmDialog.dll
+D:\handy\work\dev\library\HandySharp\ConfirmDialog\bin\Debug\ConfirmDialog.pdb
+D:\handy\work\dev\library\HandySharp\ConfirmDialog\bin\Debug\ko\ConfirmDialog.resources.dll
+D:\handy\work\dev\library\HandySharp\ConfirmDialog\obj\Debug\ConfirmDialog.csprojResolveAssemblyReference.cache
+D:\handy\work\dev\library\HandySharp\ConfirmDialog\obj\Debug\Handy.GUI.ConfirmDialog.resources
+D:\handy\work\dev\library\HandySharp\ConfirmDialog\obj\Debug\Handy.Lang.resources
+D:\handy\work\dev\library\HandySharp\ConfirmDialog\obj\Debug\Handy.Lang.ko.resources
+D:\handy\work\dev\library\HandySharp\ConfirmDialog\obj\Debug\ConfirmDialog.csproj.GenerateResource.Cache
+D:\handy\work\dev\library\HandySharp\ConfirmDialog\obj\Debug\ko\ConfirmDialog.resources.dll
+D:\handy\work\dev\library\HandySharp\ConfirmDialog\obj\Debug\ConfirmDialog.dll
+D:\handy\work\dev\library\HandySharp\ConfirmDialog\obj\Debug\ConfirmDialog.pdb

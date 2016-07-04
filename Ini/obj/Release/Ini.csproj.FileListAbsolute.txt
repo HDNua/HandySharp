@@ -1,0 +1,5 @@
+D:\handy\work\devenv\vs2013\library\HandySharp\Ini\bin\Release\Ini.XML
+D:\handy\work\devenv\vs2013\library\HandySharp\Ini\bin\Release\Ini.dll
+D:\handy\work\devenv\vs2013\library\HandySharp\Ini\bin\Release\Ini.pdb
+D:\handy\work\devenv\vs2013\library\HandySharp\Ini\obj\Release\Ini.dll
+D:\handy\work\devenv\vs2013\library\HandySharp\Ini\obj\Release\Ini.pdb

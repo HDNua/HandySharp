@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Ini</name>
+    </assembly>
+    <members>
+        <member name="T:Handy.Ini.IniFile">
+            <summary>
+            환경 정보를 담고 있는 ini 파일에 대한 객체입니다.
+            </summary>
+        </member>
+        <member name="M:Handy.Ini.IniFile.#ctor(System.String)">
+            <summary>
+            환경 정보를 담고 있는 ini 파일에 대한 객체를 생성합니다. 파일이 없으면 생성합니다.
+            </summary>
+            <param name="path">ini 파일의 경로입니다.</param>
+        </member>
+        <member name="M:Handy.Ini.IniFile.Set(System.String,System.String,System.String)">
+            <summary>
+            키에 대한 값을 지정한 섹션에 설정합니다.
+            </summary>
+            <param name="section">키에 대해 값을 설정할 섹션 이름입니다.</param>
+            <param name="key">값을 설정하기 위해 사용할 키입니다.</param>
+            <param name="value">키에 대해 설정할 값입니다.</param>
+        </member>
+        <member name="M:Handy.Ini.IniFile.Remove(System.String,System.String)">
+            <summary>
+            섹션에서 키를 제거합니다.
+            </summary>
+            <param name="section">키를 제거할 섹션입니다.</param>
+            <param name="key">제거할 키입니다.</param>
+        </member>
+        <member name="M:Handy.Ini.IniFile.Get(System.String,System.String,System.String)">
+            <summary>
+            프로필 파일에서 해당 섹션의 키에 대한 값을 가져옵니다.
+            </summary>
+            <param name="section">키에 대한 값을 가져올 섹션 이름입니다.</param>
+            <param name="key">값을 가져오기 위해 사용할 키입니다.</param>
+            <param name="def">키가 없거나 키에 대해 대해 값이 없을 경우 반환할 기본 값입니다.</param>
+            <returns>섹션에 속하는 키에 대한 값을 반환합니다.</returns>
+        </member>
+        <member name="M:Handy.Ini.IniFile.Write">
+            <summary>
+            인스턴스가 저장하고 있는 설정 정보로 기존 설정 파일을 대체합니다.
+            </summary>
+        </member>
+        <member name="M:Handy.Ini.IniFile.Update">
+            <summary>
+            인스턴스가 저장하고 있는 설정 정보를 파일에 추가합니다.
+            </summary>
+        </member>
+        <member name="T:Handy.Ini.IniManager">
+            <summary>
+            환경 정보를 담고 있는 ini 파일에 대한 싱글톤 객체입니다.
+            </summary>
+        </member>
+        <member name="M:Handy.Ini.IniManager.Read(System.String,System.String,System.String,System.String)">
+            <summary>
+            프로필 파일에서 해당 섹션의 키에 대한 값을 가져옵니다.
+            </summary>
+            <param name="path">ini 파일의 경로입니다.</param>
+            <param name="section">키에 대한 값을 가져올 섹션 이름입니다.</param>
+            <param name="key">값을 가져오기 위해 사용할 키입니다.</param>
+            <param name="def">키가 없거나 키에 대해 대해 값이 없을 경우 반환할 기본 값입니다.</param>
+            <returns>섹션에 속하는 키에 대한 값을 반환합니다.</returns>
+        </member>
+        <member name="M:Handy.Ini.IniManager.Write(System.String,System.String,System.String,System.String)">
+            <summary>
+            프로필 파일에 해당 섹션의 키에 대한 값을 설정합니다.
+            </summary>
+            <param name="path">ini 파일의 경로입니다.</param>
+            <param name="section">키에 대해 값을 설정할 섹션 이름입니다.</param>
+            <param name="key">값을 설정하기 위해 사용할 키입니다.</param>
+            <param name="value">키에 대해 설정할 값입니다.</param>
+        </member>
+    </members>
+</doc>

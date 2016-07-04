@@ -1,0 +1,13 @@
+# build file
+*/Debug
+*/Debug/*
+*/Release
+*/Release/*
+*.exe
+*.pdb
+
+# temporary file
+*~
+
+
+

@@ -1,0 +1,11 @@
+D:\handy\work\dev\library\HandySharp\DeveloperDialog\bin\Debug\DeveloperDialog.dll
+D:\handy\work\dev\library\HandySharp\DeveloperDialog\bin\Debug\DeveloperDialog.pdb
+D:\handy\work\dev\library\HandySharp\DeveloperDialog\bin\Debug\ko\DeveloperDialog.resources.dll
+D:\handy\work\dev\library\HandySharp\DeveloperDialog\obj\Debug\DeveloperDialog.csprojResolveAssemblyReference.cache
+D:\handy\work\dev\library\HandySharp\DeveloperDialog\obj\Debug\Handy.GUI.DeveloperDialog.resources
+D:\handy\work\dev\library\HandySharp\DeveloperDialog\obj\Debug\Handy.Lang.resources
+D:\handy\work\dev\library\HandySharp\DeveloperDialog\obj\Debug\Handy.Lang.ko.resources
+D:\handy\work\dev\library\HandySharp\DeveloperDialog\obj\Debug\DeveloperDialog.csproj.GenerateResource.Cache
+D:\handy\work\dev\library\HandySharp\DeveloperDialog\obj\Debug\ko\DeveloperDialog.resources.dll
+D:\handy\work\dev\library\HandySharp\DeveloperDialog\obj\Debug\DeveloperDialog.dll
+D:\handy\work\dev\library\HandySharp\DeveloperDialog\obj\Debug\DeveloperDialog.pdb

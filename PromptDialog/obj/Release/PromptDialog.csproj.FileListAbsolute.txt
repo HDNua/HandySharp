@@ -1,0 +1,11 @@
+D:\handy\work\devenv\vs2013\library\HandySharp\PromptDialog\bin\Release\PromptDialog.XML
+D:\handy\work\devenv\vs2013\library\HandySharp\PromptDialog\bin\Release\PromptDialog.dll
+D:\handy\work\devenv\vs2013\library\HandySharp\PromptDialog\bin\Release\PromptDialog.pdb
+D:\handy\work\devenv\vs2013\library\HandySharp\PromptDialog\bin\Release\ko\PromptDialog.resources.dll
+D:\handy\work\devenv\vs2013\library\HandySharp\PromptDialog\obj\Release\PromptDialog.Lang.resources
+D:\handy\work\devenv\vs2013\library\HandySharp\PromptDialog\obj\Release\Handy.GUI.PromptDialog.resources
+D:\handy\work\devenv\vs2013\library\HandySharp\PromptDialog\obj\Release\PromptDialog.Lang.ko.resources
+D:\handy\work\devenv\vs2013\library\HandySharp\PromptDialog\obj\Release\PromptDialog.csproj.GenerateResource.Cache
+D:\handy\work\devenv\vs2013\library\HandySharp\PromptDialog\obj\Release\ko\PromptDialog.resources.dll
+D:\handy\work\devenv\vs2013\library\HandySharp\PromptDialog\obj\Release\PromptDialog.dll
+D:\handy\work\devenv\vs2013\library\HandySharp\PromptDialog\obj\Release\PromptDialog.pdb

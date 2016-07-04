@@ -1,0 +1,11 @@
+D:\handy\work\dev\library\HandySharp\PromptDialog\bin\Debug\PromptDialog.dll
+D:\handy\work\dev\library\HandySharp\PromptDialog\bin\Debug\PromptDialog.pdb
+D:\handy\work\dev\library\HandySharp\PromptDialog\bin\Debug\ko\PromptDialog.resources.dll
+D:\handy\work\dev\library\HandySharp\PromptDialog\obj\Debug\PromptDialog.csprojResolveAssemblyReference.cache
+D:\handy\work\dev\library\HandySharp\PromptDialog\obj\Debug\PromptDialog.Lang.resources
+D:\handy\work\dev\library\HandySharp\PromptDialog\obj\Debug\Handy.GUI.PromptDialog.resources
+D:\handy\work\dev\library\HandySharp\PromptDialog\obj\Debug\PromptDialog.Lang.ko.resources
+D:\handy\work\dev\library\HandySharp\PromptDialog\obj\Debug\PromptDialog.csproj.GenerateResource.Cache
+D:\handy\work\dev\library\HandySharp\PromptDialog\obj\Debug\ko\PromptDialog.resources.dll
+D:\handy\work\dev\library\HandySharp\PromptDialog\obj\Debug\PromptDialog.dll
+D:\handy\work\dev\library\HandySharp\PromptDialog\obj\Debug\PromptDialog.pdb

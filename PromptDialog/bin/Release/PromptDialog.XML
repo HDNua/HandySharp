@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PromptDialog</name>
+    </assembly>
+    <members>
+        <member name="T:Handy.GUI.Lang">
+            <summary>
+              지역화된 문자열 등을 찾기 위한 강력한 형식의 리소스 클래스입니다.
+            </summary>
+        </member>
+        <member name="P:Handy.GUI.Lang.ResourceManager">
+            <summary>
+              이 클래스에서 사용하는 캐시된 ResourceManager 인스턴스를 반환합니다.
+            </summary>
+        </member>
+        <member name="P:Handy.GUI.Lang.Culture">
+            <summary>
+              이 강력한 형식의 리소스 클래스를 사용하여 모든 리소스 조회에 대한 현재 스레드의 CurrentUICulture
+              속성을 재정의합니다.
+            </summary>
+        </member>
+        <member name="P:Handy.GUI.Lang.ButtonAccept">
+            <summary>
+              accept과(와) 유사한 지역화된 문자열을 찾습니다.
+            </summary>
+        </member>
+        <member name="P:Handy.GUI.Lang.ButtonCancel">
+            <summary>
+              cancel과(와) 유사한 지역화된 문자열을 찾습니다.
+            </summary>
+        </member>
+        <member name="P:Handy.GUI.Lang.Title">
+            <summary>
+              Enter string과(와) 유사한 지역화된 문자열을 찾습니다.
+            </summary>
+        </member>
+        <member name="T:Handy.GUI.PromptDialog">
+            <summary>
+            사용자로부터 문자열을 입력 받는 PromptDialog 객체를 생성합니다.
+            </summary>
+        </member>
+        <member name="M:Handy.GUI.PromptDialog.ShowForm(System.String)">
+            <summary>
+            사용자로부터 문자열을 입력 받는 PromptDialog 객체를 생성합니다.
+            </summary>
+            <param name="message">사용자에게 표시할 설명입니다.</param>
+            <returns>확인 버튼을 누른 경우 TextBox 객체의 문자열, 그 외의 경우 null을 반환합니다.</returns>
+        </member>
+        <member name="M:Handy.GUI.PromptDialog.#ctor(System.String)">
+            <summary>
+            PromptDialog 객체를 생성합니다.
+            </summary>
+            <param name="message">사용자에게 표시할 설명입니다.</param>
+        </member>
+        <member name="F:Handy.GUI.PromptDialog.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Handy.GUI.PromptDialog.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Handy.GUI.PromptDialog.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>

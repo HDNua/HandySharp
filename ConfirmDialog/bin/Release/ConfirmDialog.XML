@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConfirmDialog</name>
+    </assembly>
+    <members>
+        <member name="T:Handy.GUI.ConfirmDialog">
+            <summary>
+            사용자에게 과정을 진행할 것인지 확인하는 ConfirmDialog를 생성합니다.
+            </summary>
+        </member>
+        <member name="M:Handy.GUI.ConfirmDialog.ShowForm(System.String)">
+            <summary>
+            사용자에게 과정을 진행할 것인지 확인하는 ConfirmDialog를 생성합니다.
+            </summary>
+            <param name="message">사용자에게 표시할 설명입니다.</param>
+            <returns>사용자가 확인 버튼을 누른 경우 DialogResult.OK, 그 외의 경우는 DialogResult.OK가 아닌 값을 반환합니다.</returns>
+        </member>
+        <member name="M:Handy.GUI.ConfirmDialog.#ctor(System.String)">
+            <summary>
+            ConfirmDialog 객체를 생성합니다.
+            </summary>
+            <param name="message">사용자에게 표시할 설명합니다.</param>
+        </member>
+        <member name="F:Handy.GUI.ConfirmDialog.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Handy.GUI.ConfirmDialog.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Handy.GUI.ConfirmDialog.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Handy.GUI.Lang">
+            <summary>
+              지역화된 문자열 등을 찾기 위한 강력한 형식의 리소스 클래스입니다.
+            </summary>
+        </member>
+        <member name="P:Handy.GUI.Lang.ResourceManager">
+            <summary>
+              이 클래스에서 사용하는 캐시된 ResourceManager 인스턴스를 반환합니다.
+            </summary>
+        </member>
+        <member name="P:Handy.GUI.Lang.Culture">
+            <summary>
+              이 강력한 형식의 리소스 클래스를 사용하여 모든 리소스 조회에 대한 현재 스레드의 CurrentUICulture
+              속성을 재정의합니다.
+            </summary>
+        </member>
+        <member name="P:Handy.GUI.Lang.ButtonAccept">
+            <summary>
+              accept과(와) 유사한 지역화된 문자열을 찾습니다.
+            </summary>
+        </member>
+        <member name="P:Handy.GUI.Lang.ButtonCancel">
+            <summary>
+              cancel과(와) 유사한 지역화된 문자열을 찾습니다.
+            </summary>
+        </member>
+        <member name="P:Handy.GUI.Lang.Title">
+            <summary>
+              Confirm과(와) 유사한 지역화된 문자열을 찾습니다.
+            </summary>
+        </member>
+    </members>
+</doc>

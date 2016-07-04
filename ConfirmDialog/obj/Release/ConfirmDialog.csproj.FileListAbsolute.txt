@@ -1,0 +1,11 @@
+D:\handy\work\devenv\vs2013\library\HandySharp\ConfirmDialog\bin\Release\ConfirmDialog.XML
+D:\handy\work\devenv\vs2013\library\HandySharp\ConfirmDialog\bin\Release\ConfirmDialog.dll
+D:\handy\work\devenv\vs2013\library\HandySharp\ConfirmDialog\bin\Release\ConfirmDialog.pdb
+D:\handy\work\devenv\vs2013\library\HandySharp\ConfirmDialog\bin\Release\ko\ConfirmDialog.resources.dll
+D:\handy\work\devenv\vs2013\library\HandySharp\ConfirmDialog\obj\Release\Handy.GUI.ConfirmDialog.resources
+D:\handy\work\devenv\vs2013\library\HandySharp\ConfirmDialog\obj\Release\Handy.Lang.resources
+D:\handy\work\devenv\vs2013\library\HandySharp\ConfirmDialog\obj\Release\Handy.Lang.ko.resources
+D:\handy\work\devenv\vs2013\library\HandySharp\ConfirmDialog\obj\Release\ConfirmDialog.csproj.GenerateResource.Cache
+D:\handy\work\devenv\vs2013\library\HandySharp\ConfirmDialog\obj\Release\ko\ConfirmDialog.resources.dll
+D:\handy\work\devenv\vs2013\library\HandySharp\ConfirmDialog\obj\Release\ConfirmDialog.dll
+D:\handy\work\devenv\vs2013\library\HandySharp\ConfirmDialog\obj\Release\ConfirmDialog.pdb
